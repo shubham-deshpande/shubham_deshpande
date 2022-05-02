@@ -1,15 +1,15 @@
 {
-  "main.css": "/shubham_deshpande/static/css/main.b7814aac.chunk.css",
-  "main.js": "/shubham_deshpande/static/js/main.098a4902.chunk.js",
-  "main.js.map": "/shubham_deshpande/static/js/main.098a4902.chunk.js.map",
-  "runtime~main.js": "/shubham_deshpande/static/js/runtime~main.9e0d30e4.js",
-  "runtime~main.js.map": "/shubham_deshpande/static/js/runtime~main.9e0d30e4.js.map",
-  "static/js/2.a2df5f33.chunk.js": "/shubham_deshpande/static/js/2.a2df5f33.chunk.js",
-  "static/js/2.a2df5f33.chunk.js.map": "/shubham_deshpande/static/js/2.a2df5f33.chunk.js.map",
-  "static/js/3.87f4fc67.chunk.js": "/shubham_deshpande/static/js/3.87f4fc67.chunk.js",
-  "static/js/3.87f4fc67.chunk.js.map": "/shubham_deshpande/static/js/3.87f4fc67.chunk.js.map",
-  "index.html": "/shubham_deshpande/index.html",
-  "precache-manifest.1a5f0109e7aef829edea9a693dc530bd.js": "/shubham_deshpande/precache-manifest.1a5f0109e7aef829edea9a693dc530bd.js",
-  "service-worker.js": "/shubham_deshpande/service-worker.js",
-  "static/css/main.b7814aac.chunk.css.map": "/shubham_deshpande/static/css/main.b7814aac.chunk.css.map"
+  "main.css": "/static/css/main.b7814aac.chunk.css",
+  "main.js": "/static/js/main.b5d55f93.chunk.js",
+  "main.js.map": "/static/js/main.b5d55f93.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.c58ff8e6.js",
+  "runtime~main.js.map": "/static/js/runtime~main.c58ff8e6.js.map",
+  "static/js/2.a2df5f33.chunk.js": "/static/js/2.a2df5f33.chunk.js",
+  "static/js/2.a2df5f33.chunk.js.map": "/static/js/2.a2df5f33.chunk.js.map",
+  "static/js/3.87f4fc67.chunk.js": "/static/js/3.87f4fc67.chunk.js",
+  "static/js/3.87f4fc67.chunk.js.map": "/static/js/3.87f4fc67.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.d80ffb427926ee4bda187039ab9fdc63.js": "/precache-manifest.d80ffb427926ee4bda187039ab9fdc63.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.b7814aac.chunk.css.map": "/static/css/main.b7814aac.chunk.css.map"
 }
