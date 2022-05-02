@@ -22,3 +22,19 @@
     font-weight:500;
     color: white;
 }
+@media (max-width: 749px){
+    .img{
+        width: 100px;
+        height: 100px;
+        bottom: 85px;
+    }
+    .txt{
+        width: 180px;
+        left: 135px;
+        bottom: 5px;
+    }
+    #card{
+        width: 380px;
+        height: 270px;
+    }
+}

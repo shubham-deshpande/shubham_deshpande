@@ -31,6 +31,7 @@
 }
 .main-skills{
     /* border: 5px solid red; */
+    /* display: flex; */
     width: 100px;
     position: relative;
     left: 350px;
@@ -52,4 +53,27 @@
     display: inline-flex;
     margin: 5px;
     width: 125px;
+}
+@media (max-width: 749px){
+    .main-skills{
+        left: 5px;
+    }
+    #card-skill{
+        align-content: center;
+        width: 380px;
+        height: 330px;
+    }
+    .img-skill{
+        height: 100px;
+        width: 100px;
+        left: 5px;
+    }
+    .txt-skill{
+        left: 110px;
+        width: 265px;
+        height: 600px;
+    }
+    .txtt-flex{
+        width: 75px;
+    }
 }

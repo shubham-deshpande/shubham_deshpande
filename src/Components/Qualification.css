@@ -43,3 +43,13 @@
     justify-content: center;
 }
 
+@media (max-width: 749px){
+    .accordion-item{
+        width: 370px;
+        left: 10px
+    }
+    .image{
+        height: 120px;
+        width: 200px;
+    }
+}

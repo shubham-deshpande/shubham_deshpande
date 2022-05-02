@@ -36,3 +36,8 @@
 /* .ttl-p{
     padding: 2px;
 } */
+@media (max-width: 749px){
+    .main-p{
+        height: auto;
+    }
+}

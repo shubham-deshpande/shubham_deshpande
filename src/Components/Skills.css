@@ -39,3 +39,10 @@
 .p{
     padding-bottom: 5px;
 }
+@media (max-width: 749px){
+    .main-skill{
+        left: 5px;
+        height: 800px;
+        width: 380px;
+    }
+}
