@@ -9,10 +9,10 @@
     background-color: rgba(0, 0, 0, 0.36);
 }
 .img-skill{
-    position: absolute;
+    position: relative;
     padding: 5px;
-    top: 70px;
-    bottom: 4px;
+    top: 30px;
+    /* bottom: 10px; */
     height: 200px;
     width: 200px;
     left: 30px;
@@ -21,23 +21,16 @@
     background-color: white;
 }
 .txt-skill{
-    /* display: inline; */
-    position: absolute;
+    position: relative;
     left: 260px;
-    top: 70px;
+    bottom: 180px;
     width: 520px;
     font-weight:500;
     color: white;   
 }
 .main-skills{
-    /* border: 5px solid red; */
-    /* display: flex; */
-    width: 100px;
-    position: relative;
-    left: 350px;
-    top: 100px;
-    width: 800px;
     height: 325px;
+    margin-top: 30px;
 }
 .ttl-skill{
     text-align: center;
@@ -55,13 +48,10 @@
     width: 125px;
 }
 @media (max-width: 749px){
-    .main-skills{
-        left: 5px;
-    }
     #card-skill{
         align-content: center;
         width: 380px;
-        height: 330px;
+        height: 370px;
     }
     .img-skill{
         height: 100px;
@@ -70,6 +60,7 @@
     }
     .txt-skill{
         left: 110px;
+        bottom: 100px;
         width: 265px;
         height: 600px;
     }

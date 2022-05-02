@@ -1,4 +1,5 @@
 import React from 'react'
+import './Skillstop.css'
 
 export default function Skillstop() {
   return (
