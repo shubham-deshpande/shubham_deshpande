@@ -12,7 +12,7 @@ export default function Cards(props) {
                 <h5 className="card-title">{props.q}</h5>
                 <p className="card-text">Click to know about my {props.q}.</p>
                 <div className="button">
-                    <Link to="/qualification" className="btn btn-primary" id='button-card'>{props.k}</Link>
+                    <Link to="/shubham_deshpande/qualification" className="btn btn-primary" id='button-card'>{props.k}</Link>
                 </div>
             </div>
         </div>
@@ -22,7 +22,7 @@ export default function Cards(props) {
                 <h5 className="card-title">{props.e}</h5>
                 <p className="card-text">Click to know about my {props.e}.</p>
                 <div className="button">
-                    <Link to="/experience" className="btn btn-primary" id='button-card'>{props.k}</Link>
+                    <Link to="/shubham_deshpande/experience" className="btn btn-primary" id='button-card'>{props.k}</Link>
                 </div>
             </div>
         </div>
@@ -32,7 +32,7 @@ export default function Cards(props) {
                 <h5 className="card-title">{props.a}</h5>
                 <p className="card-text">Click to know about my {props.a}.</p>
                 <div className="button">
-                    <Link to="/achievement" className="btn btn-primary" id='button-card'>{props.k}</Link>
+                    <Link to="/shubham_deshpande/achievement" className="btn btn-primary" id='button-card'>{props.k}</Link>
                 </div>
             </div>
         </div>

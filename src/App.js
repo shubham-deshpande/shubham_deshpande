@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <Navbar name="Shubham Deshpande" h="Home" q="Qualifications" e="Experience & Skills" a="Acheivements & Responsibilities" p="Projects"/>
       <Routes>
-          <Route path="/shubham_deshpande" element={<Home/>} />
+          <Route path="/shubham_deshpande/" element={<Home/>} />
           <Route path="/shubham_deshpande/qualification" element={<Qualification/>}/>
           <Route path="/shubham_deshpande/experience" element={<Skills/>} />
           <Route path="/shubham_deshpande/achievement" element={<Achievements/>}/>
