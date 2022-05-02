@@ -1,0 +1,22 @@
+.App {
+  color: black;
+  background-image: url("https://source.unsplash.com/random/2100x2100/?wallpaper");
+  padding-bottom: 200px;
+}
+.name{
+  color: aqua;
+}
+.nav-item{
+  margin-right: 20px;
+}
+#navb{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+#name{
+  color: white;
+  font-size: 25px;
+  font-weight: bolder;
+}

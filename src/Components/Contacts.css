@@ -1,0 +1,32 @@
+.main-c{
+    display: inline-flex;
+    color: white;
+    /* font-weight: 500; */
+    width: 800px;
+    height: 220px;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.644);
+    margin: 10px;
+}
+.heading-c{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    margin: 50px;
+}
+.cont-c{
+    position: relative;
+    top: 10px;
+}
+.head-c{
+    /* position: absolute; */
+    font-weight: 700;
+    font-size: 20px;
+}
+.linking{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}

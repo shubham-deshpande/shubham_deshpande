@@ -1,0 +1,45 @@
+/* .accordion{
+    display: flex;
+    justify-content: center;
+} */
+.accordion-item{
+    background-color: rgba(0, 0, 0, 0.466);
+    color: white;
+    width: 1000px;
+    position: relative;
+    left: 275px;
+    top: 100px;
+}
+.accordion-button{
+    background-color: rgba(0, 0, 0, 0.466);
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.anchor{
+    font-size: 25px;
+    /* color: white; */
+    text-decoration: none;
+}
+.image{
+    width: 300px;
+    height: 300px;
+}
+
+.logo{
+    /* display: inline; */
+    position: relative;
+    /* padding-left: 100px; */
+    /* right: 100px;
+    top: 50px; */
+}
+.image{
+    position: absolute;
+    right: 90px;
+    bottom: 50px;
+}
+.body{
+    height: 400px;
+    justify-content: center;
+}
+

@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    /* margin-top: 50px; */
+    /* padding: 10px; */
+    justify-content: center;
+}
+.card{
+    display: inline;
+    margin: 25px;
+    width: 30rem;
+    background-color: black;
+    color: white;
+    /* border: 5px solid black; */
+    /* justify-content: center; */
+    /* height: 50px; */
+}
+.card-img-top{
+    width: 29.9rem;
+    height: 20rem;
+}
+
