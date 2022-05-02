@@ -24,16 +24,16 @@ export default function Navbar(props) {
                 <Link id='navb' to="/shubham_deshpande/">{props.h}</Link>
                 </li>
                 <li className="nav-item">
-                <Link id='navb' to="/shubham_deshpande/qualification">{props.q}</Link>
+                <Link id='navb' to="/shubham_deshpande/achievement">{props.a}</Link>
+                </li>
+                <li className="nav-item">
+                <Link id='navb' to="/shubham_deshpande/projects">{props.p}</Link>
                 </li>
                 <li className="nav-item">
                 <Link id='navb' to="/shubham_deshpande/experience">{props.e}</Link>
                 </li>
                 <li className="nav-item">
-                <Link id='navb' to="/shubham_deshpande/achievement">{props.a}</Link>
-                </li>
-                <li className="nav-item">
-                <Link id='navb' to="/shubham_deshpande/projects">{props.p}</Link>
+                <Link id='navb' to="/shubham_deshpande/qualification">{props.q}</Link>
                 </li>
             </ul>
       </div>

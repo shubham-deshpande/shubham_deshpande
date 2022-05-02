@@ -7,6 +7,11 @@ export default function () {
         <div className="heading">
             <div className="main-ach">
                 <div className="cont-ach">
+                    <p className="head-head">TECHNICAL ACHIEVEMENTS</p>
+                </div>
+            </div>
+            <div className="main-ach">
+                <div className="cont-ach">
                     <p className="head">Microsoft Technology Associate in programming using Python (August, 2020)</p>
                 </div>
             </div>
@@ -38,6 +43,11 @@ export default function () {
             <div className="main-ach">
                 <div className="cont-ach">
                     <p className="head">Nominated as Class Representative for three consecutive years (2019-2022)</p>
+                </div>
+            </div>
+            <div className="main-ach">
+                <div className="cont-ach">
+                    <p className="head-head">EXTRA CURRICULAR ACHIEVEMENTS</p>
                 </div>
             </div>
             <div className="main-ach">

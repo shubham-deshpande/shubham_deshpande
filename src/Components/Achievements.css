@@ -27,7 +27,7 @@
 }
 @media (max-width: 749px){
     .main-ach{
-        width: 380px;
+        width: 370px;
         height: 100px;
     }
 }
@@ -36,4 +36,9 @@
         width: 800px;
         height: 70px;
     }
+}
+.head-head{
+    font-size: 20px;
+    font-weight: 800;
+    color: blue;
 }
