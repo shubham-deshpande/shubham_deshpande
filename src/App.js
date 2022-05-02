@@ -18,11 +18,11 @@ function App() {
     <div className="App">
       <Navbar name="Shubham Deshpande" h="Home" q="Qualifications" e="Experience & Skills" a="Acheivements & Responsibilities" p="Projects"/>
       <Routes>
-          <Route path="/shubham_deshpande" element={<Home/>} />
-          <Route path="/shubham_deshpande/qualification" element={<Qualification/>}/>
-          <Route path="/shubham_deshpande/experience" element={<Skills/>} />
-          <Route path="/shubham_deshpande/achievement" element={<Achievements/>}/>
-          <Route path="/shubham_deshpande/projects" element={<Projects/>}/>
+          <Route path="/" element={<Home/>} />
+          <Route path="/qualification" element={<Qualification/>}/>
+          <Route path="/experience" element={<Skills/>} />
+          <Route path="/achievement" element={<Achievements/>}/>
+          <Route path="/projects" element={<Projects/>}/>
       </Routes>
     </div>
     </Router>
