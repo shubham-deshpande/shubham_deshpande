@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cb44eaf8f2926d6c6a43",
-    "url": "/shubham_deshpande/static/css/main.c7cfeaaf.chunk.css"
+    "revision": "ac5bd02f702f25f2e766",
+    "url": "/shubham_deshpande/static/css/main.43b83538.chunk.css"
   },
   {
-    "revision": "cb44eaf8f2926d6c6a43",
-    "url": "/shubham_deshpande/static/js/main.4146b3e1.chunk.js"
+    "revision": "ac5bd02f702f25f2e766",
+    "url": "/shubham_deshpande/static/js/main.7e97b3b0.chunk.js"
   },
   {
     "revision": "64b94c252dca45a3e490",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/shubham_deshpande/static/js/3.71a42320.chunk.js"
   },
   {
-    "revision": "0b14feb18b36749b799e24a082dc7f67",
+    "revision": "4b19db1499939334ed3dabdecbb2c96e",
     "url": "/shubham_deshpande/index.html"
   }
 ];
