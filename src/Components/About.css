@@ -31,8 +31,7 @@
     .txt{
         width: 180px;
         left: 135px;
-        /* bottom: 5px;
-        top: 5px; */
+        bottom: 5px;
     }
     #card{
         width: 380px;
