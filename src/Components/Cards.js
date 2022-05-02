@@ -42,7 +42,7 @@ export default function Cards(props) {
                 <h5 className="card-title">{props.p}</h5>
                 <p className="card-text">Click to know about my {props.p}.</p>
                 <div className="button">
-                    <Link to="/projects" className="btn btn-primary" id='button-card'>{props.k}</Link>
+                    <Link to="/shubham_deshpande/projects" className="btn btn-primary" id='button-card'>{props.k}</Link>
                 </div>
             </div>
         </div>
